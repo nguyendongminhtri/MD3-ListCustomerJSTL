@@ -1,0 +1,4 @@
+com/example/ListCustomerJSTL/HelloServlet.java
+ com.example.ListCustomerJSTL.HelloServlet
+com/example/ListCustomerJSTL/Customer.java
+ com.example.ListCustomerJSTL.Customer
